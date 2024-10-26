@@ -1,6 +1,4 @@
-Here's a README file explaining the code:
 
----
 
 # Technical Assistant API with PDF Processing and Vector Store
 
@@ -57,6 +55,4 @@ python app.py
 
 The API will be accessible at `http://0.0.0.0:8080`.
 
----
 
-This README provides an overview and usage details for your API project. Let me know if you need further customization.
